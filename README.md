@@ -1,4 +1,4 @@
-# MathPlotter2D
+# MathPlotter
 
 A graphing tool which makes plotting objects into a mathematical 3D coordinate system simple.
 
