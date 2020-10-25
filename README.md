@@ -1,6 +1,7 @@
-# 2DPlotter
+# MathPlotter2D
 
-An graphing tool which makes plotting objects into a mathematical 3d coordinate system simple.
+A graphing tool which makes plotting objects into a mathematical 3d coordinate system simple.
+Developed for an so-called "GFS" (Gleichwertige Feststellung von Schülerleistungen) presentation in math at school.
 
 ## Screenshots
 ![Screenshot1](img/screenshot1.png)
