@@ -12,36 +12,36 @@ function draw() { // hier kommen befehle rein
         new Vector3(0, 0, 0),
         new Vector2(1, 1)
     );*/
-    /*CS.drawCircle(
-        new Vector3(0, 0, 0),
+    CS.drawCircle(
+        new Vector3(0, -3, 0),
         1,
-        { color: Color.Purple }
-    );*/
-    /*CS.drawCuboid(
+        { color: Color.Orange }
+    );
+    CS.drawCuboid(
         new Vector3(0, 0, 0),
         new Vector3(1, 1, 1),
-        {color: Color.Orange}
-    );*/
-    /*CS.drawTetrahedon(
-        new Vector3(0, 0, 0),
+        { color: Color.Orange }
+    );
+    CS.drawTetrahedon(
+        new Vector3(4, 0, 0),
         2,
         4,
-        {color: Color.Orange}
-    );*/
-    CS.drawFunction(function(x) {
+        { color: Color.Orange }
+    );
+    CS.drawFunction(function (x) {
         return Math.sin(x) + Math.pow(x, 2) * 0.01;
     });
     /*CS.drawFunction2d(function(x, z) {
         //return Math.sin(x) + Math.sin(z);
         return 0.5*Math.sin(6.28*(x+2*z)/6)+Math.cos(6.28*(x+z)/6)+0.5*Math.sin(6.28*(2*x+z)/6);
     });*/
-    
+
     /*CS.drawPolygon(
         new Vector3(0, 0, 0),
         2,
         5
     );*/
-    
+
 }
 
 
@@ -54,15 +54,15 @@ function draw() { // hier kommen befehle rein
     CS.drawSquares();
     CS.drawAxes();
     CS.labelAxes();
-    
+
     polyCount += 0.01;
-    
+
     CS.drawPolygon(
         new Vector3(0, 0, 0),
         3,
         polyCount
     );
-    
+
     if (drawAnimation)
         window.requestAnimationFrame(draw);
 }*/

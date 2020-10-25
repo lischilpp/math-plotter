@@ -6,5 +6,7 @@ The engine's code is located at https://github.com/yxyx136/2DPlotter/tree/master
 
 For an example usage refer to https://github.com/yxyx136/2DPlotter/blob/master/Main.js (comment out  lines to to see examples for different shapes)
 
-Screenshot:
-![ScreenShot](https://github.com/yxyx136/2DPlotter/raw/master/screenshot1.jpg)
+## Screenshots
+![Screenshot1](img/screenshot1.png)
+![Screenshot2](img/screenshot2.png)
+
