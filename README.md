@@ -1,6 +1,7 @@
 # MathPlotter
 
-A graphing tool which makes plotting objects into a mathematical 3D coordinate system simple.
+A graphing tool which makes plotting objects into a parallel perspective 3D coordinate system simple.
+This program can be used to visualize points / objects / vectors like in math schoolbooks.
 
 Developed for an so-called "GFS" (Gleichwertige Feststellung von Schülerleistungen) presentation in math at school.
 
