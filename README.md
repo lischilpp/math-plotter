@@ -4,18 +4,10 @@ A graphing tool which makes plotting objects into a parallel perspective 3D coor
 
 This program can be used to visualize points / objects / vectors like in math schoolbooks.
 
-Developed for an so-called "GFS" (Gleichwertige Feststellung von Schülerleistungen) presentation in math at school.
-
 # Features
--zoom-in, zoom-out, move
-
--labeled axes
-
--math notepad like square grid
-
--labeled vectors, rectangle, circle, cuboid, tetrahedon
-
--1D-functions, 2D-functions
+- Shapes like Rectangle, Circle, Cuboid, Tetrahedon
+- 1D Functions, 2D Functions, Labeled Vectors
+- Zoom-in /-out, Move view
 
 # Screenshots
 Various shapes |  2D function X
