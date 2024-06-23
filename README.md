@@ -10,7 +10,7 @@ This program can be used to visualize points / objects / vectors like in math sc
 - Zoom-in /-out, Move view
 
 # Screenshots
-![Screenshot of the tool rendering various geometric shapes](img/screenshot1.png)
+<img src="img/screenshot1.png" alt="Screenshot of the tool rendering various geometric shapes" width="500">
 
 # Usage
 For an example usage refer to https://github.com/yxyx136/2DPlotter/blob/master/Main.js  
