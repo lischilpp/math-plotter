@@ -1,4 +1,4 @@
-# MathPlotter
+# Math Plotter
 
 A graphing tool which makes plotting objects into a parallel perspective 3D coordinate system simple.
 
@@ -18,11 +18,12 @@ Developed for an so-called "GFS" (Gleichwertige Feststellung von Schülerleistun
 -1D-functions, 2D-functions
 
 # Screenshots
-![Screenshot1](img/screenshot1.png)
-![Screenshot2](img/screenshot2.png)
+Various shapes |  2D function X
+:-------------------------:|:-------------------------:
+![Screenshot of the tool rendering various geometric shapes](img/screenshot1.png)  |  ![Screenshot of the tool rendering a two-dimensional function](img/screenshot2.png)
 
-
-The engine's code is located at https://github.com/yxyx136/2DPlotter/tree/master/engine/script
-
+# Usage
 For an example usage refer to https://github.com/yxyx136/2DPlotter/blob/master/Main.js  
 (comment out  lines to to see examples for different shapes)
+
+The engine's code is located at https://github.com/yxyx136/2DPlotter/tree/master/engine/script
