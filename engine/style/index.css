@@ -39,7 +39,7 @@ header h1 {
     cursor: move;
 }
 
-#downloadButton {
+#download-button {
     position: absolute;
     right: 10px;
     top: 10px;
