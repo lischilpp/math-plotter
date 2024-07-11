@@ -4,6 +4,8 @@ A graphing tool which makes plotting objects into a parallel perspective 3D coor
 
 This program can be used to visualize points / objects / vectors like in math schoolbooks.
 
+ [Interactive Page](https://lischilpp.github.io/math-plotter)
+
 # Features
 - Shapes like Rectangle, Circle, Cuboid, Tetrahedon
 - 1D Functions, 2D Functions, Labeled Vectors
