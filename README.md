@@ -15,7 +15,7 @@ This program can be used to visualize points / objects / vectors like in math sc
 <img src="img/screenshot1.png" alt="Screenshot of the tool rendering various geometric shapes" width="500">
 
 # Usage
-For an example usage refer to https://github.com/yxyx136/2DPlotter/blob/master/Main.js  
+For an example usage refer to https://github.com/yxyx136/2DPlotter/blob/master/main.js  
 (comment out  lines to to see examples for different shapes)
 
 The engine's code is located at https://github.com/yxyx136/2DPlotter/tree/master/engine/script
