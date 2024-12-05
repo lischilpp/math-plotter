@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript Badge">
   </p>
   <p>A tool for plotting objects in a 3D coordinate system using parallel perspective</p>
-  <p><a href="https://lischilpp.github.io/unity-voxel-engine-demo/" target="_blank">Live Demo</a></p>
+  <p><a href="https://lischilpp.github.io/math-plotter/" target="_blank">Live Demo</a></p>
 </div>
 
 ## About The Project
