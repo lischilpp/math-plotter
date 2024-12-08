@@ -13,15 +13,11 @@
 ## About The Project
 This program can be used to visualize points / objects / vectors like in math schoolbooks.
 
-<details>
-  <summary>Table of Contents</summary>
-  <ul>
-    <li><a href="#screenshots">Screenshots</a></li>
-    <li><a href="#features">Features</a></li>
-    <li><a href="#getting-started">Getting started</a></li>
-    <li><a href="#license">License</a></li>
-  </ul>
-</details>
+## Table of Contents
+- [Screenshots](#screenshots)
+- [Features](#features)
+- [Getting started](#getting-started)
+- [License](#license)
 
 ## Screenshots
 <img src="img/screenshot1.png" alt="Screenshot of the tool rendering various geometric shapes" width="500">
